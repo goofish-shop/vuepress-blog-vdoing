@@ -8,6 +8,8 @@ module.exports = {
     base: "/vuepress-blog-vdoing/",
     themeConfig: {
         repo: 'https://github.com/goofish-shop/vuepress-blog-vdoing',
-
+        footer: {
+            copyrightInfo: "goofish-shop"
+        }
     }
 }
