@@ -10,6 +10,13 @@ module.exports = {
         repo: 'https://github.com/goofish-shop/vuepress-blog-vdoing',
         footer: {
             copyrightInfo: "goofish-shop"
+        },
+        extendFrontmatter: {
+            author: {
+                name: 'ahKevinXy',
+                link: 'https://github.com/ahKevinXy'
+            },
+            titleTag: '',
         }
     }
 }
