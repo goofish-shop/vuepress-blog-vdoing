@@ -14,7 +14,7 @@ features: # 可选的
  
   - title: VuePress-vdoing
     details: 最棒的blog 模板工具
-    link: /about
+    link: /
     # imgUrl: /img/ui.png
 
 
