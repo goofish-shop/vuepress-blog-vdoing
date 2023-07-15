@@ -1,0 +1,16 @@
+{
+  "name": "goofish-shop-vuepress-blog-vdoing",
+  "version": "1.0.0",
+  "description": " vuepress-blog-vdoing",
+  "main": "index.js",
+  "author": "ahKevinXy",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.9",
+    "vuepress-theme-vdoing": "^1.12.8"
+  }
+}
